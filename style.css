@@ -46,10 +46,9 @@ body{
     width: 475px;
     height: 200px;
     position: absolute;
-    top: 33.3%;
-    bottom: 10%;
     margin-left: 10px;
     padding-top: 20px;
+    margin-top: 65px;
   }
 
   h1{
